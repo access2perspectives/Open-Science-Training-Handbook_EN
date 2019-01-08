@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/access2perspectives / Open-Science-Training-Handbook_EN.svg)](https://travis-ci.org/access2perspectives/Open-Science-Training-Handbook_EN)
+[![Build Status](https://travis-ci.org/access2perspectives/Open-Science-Training-Handbook_EN.svg)](https://travis-ci.org/access2perspectives/Open-Science-Training-Handbook_EN)
+
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## The Open Science Training Handbook
 
